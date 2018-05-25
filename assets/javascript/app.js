@@ -1,5 +1,5 @@
 
-    var TextTyper = function(lag, toRotate, period) {
+    /*var TextTyper = function(lag, toRotate, period) {
         this.toRotate = toRotate;
         this.lag = lag;
         this.loopingNumber = 0;
@@ -51,7 +51,7 @@
         }
       
         
-    };
+    };*/
     $(document).ready(function() {
         
         
